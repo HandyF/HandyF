@@ -2,12 +2,12 @@
 
 > [!NOTE]
 > 
-> 👨🏻‍💻 Soy Ingeniero informático de Desarrollo y Gestión de Software con experiencia en Multiplatform Software, Frontend, Internet of Things, y Backend. Interesado en todo lo relacionado con Tecnología y Seguridad tecnológica.
+> 🌐👨🏻‍💻 Soy Ingeniero informático de Desarrollo y Gestión de Software con experiencia en Multiplatform Software, Frontend, Internet of Things, y Backend. Interesado en todo lo relacionado con Tecnología y Seguridad tecnológica.
 > - Con capacidad de Analizar datos, Desarrollar, Documentar y Gestión de Software.
-
+> 
 > 📊 📈
 > Me encanta estar actualizado, analizar, resolver problemas y crear estrategias para mejorar mi efectividad.
-
+> 
 > 📰 📙 📔 📒 📚 📖
 > Soy una persona curiosa, analítico, autodidacta y proactivo, me encanta aprender de diseño, desarrollo de software, datos, y tecnología en general al igual que trabajar en equipo y aprender haciendo. Me considero un estudiante eterno.
 
