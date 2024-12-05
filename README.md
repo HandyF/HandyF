@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > 
-> 🌐👨🏻‍💻 Soy Ingeniero informático de Desarrollo y Gestión de Software con experiencia en Multiplatform Software, Frontend, Internet of Things, y Backend. Interesado en todo lo relacionado con Tecnología y Seguridad tecnológica.
+> 🌐👨🏻‍💻 Soy **Ingeniero informático de Desarrollo y Gestión de Software** con experiencia en **Multiplatform Software**, **Frontend**, **Internet of Things**, **Backend**, **Data Analyst**, **QA** y **Full Stack Developer Jr**. Interesado en todo lo relacionado con Tecnología y Seguridad tecnológica.
 > - Con capacidad de Analizar datos, Desarrollar, Documentar y Gestión de Software.
 > 
 > 📊 📈
