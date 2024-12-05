@@ -8,7 +8,7 @@
 > 📊 📈
 > Me encanta estar actualizado, analizar, resolver problemas y crear estrategias para mejorar mi efectividad.
 
-> 📰 📕 📗 📘 📙 📔 📒 📚 📖
+> 📰 📙 📔 📒 📚 📖
 > Soy una persona curiosa, analítico, autodidacta y proactivo, me encanta aprender de diseño, desarrollo de software, datos, y tecnología en general al igual que trabajar en equipo y aprender haciendo. Me considero un estudiante eterno.
 
 [![Linkedin Badge](https://img.shields.io/badge/-@handyfierro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/handyfierro/)](https://www.linkedin.com/in/handyfierro/)
