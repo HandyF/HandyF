@@ -1,4 +1,4 @@
-## Saludos👋 bienvenido a mi perfil de GitHub
+## Saludos👋 bienvenido/a a mi perfil de GitHub.
 
 > [!NOTE]
 > 
