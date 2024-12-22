@@ -88,7 +88,6 @@ Here are some ideas to get you started:
 > ![Composer](https://img.shields.io/badge/Composer-785612?style=for-the-badge&logo=Composer&logoColor=white)
 > ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 > ![Codeigniter](https://img.shields.io/badge/Codeigniter-FF2D20?style=for-the-badge&logo=Codeigniter&logoColor=ff6500)
-> 
 > ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 > [!IMPORTANT]
