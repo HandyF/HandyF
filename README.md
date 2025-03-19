@@ -11,7 +11,7 @@
 > 📰 📙 📔 📒 📚 📖
 > Soy una persona curiosa, analítico, autodidacta y proactivo, me encanta aprender de diseño, desarrollo de software, datos, y tecnología en general al igual que trabajar en equipo y aprender haciendo. Me considero un estudiante eterno.
 
-Puedes contactame en mi Linkedin 👉  [![Linkedin Badge](https://img.shields.io/badge/-@handyfierro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/handyfierro/)](https://www.linkedin.com/in/handyfierro/)
+Puedes contactarme en mi Linkedin 👉  [![Linkedin Badge](https://img.shields.io/badge/-@handyfierro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/handyfierro/)](https://www.linkedin.com/in/handyfierro/)
 
 <!--
 **HandyF/HandyF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
